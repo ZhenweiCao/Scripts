@@ -1,0 +1,2 @@
+add x4, x3, x2
+adds x4, x3, x2
